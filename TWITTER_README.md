@@ -45,13 +45,7 @@ As there was no target column, it is created by calculating the subjectivity and
 ## Model Building
 
 As we have only one target column and one independent column and the data we had was catrgorical data so i have selected Random forest and used converted the data in to train and test data and the data is fed to the model. The evaluation of the model are as below
-                precision    recall  f1-score   support
+                
+![image](https://user-images.githubusercontent.com/75555487/153760595-86bbb749-32fd-491c-b04f-92e2cb4e6647.png)
 
-           0       0.86      0.93      0.89      2578
-           1       0.89      0.54      0.67       825
-           2       0.89      0.93      0.91      2599
-
-    accuracy                           0.88      6002
-   macro avg       0.88      0.80      0.83      6002
-weighted avg       0.88      0.88      0.87      6002
 
