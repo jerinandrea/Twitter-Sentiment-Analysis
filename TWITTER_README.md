@@ -54,3 +54,4 @@ As we have only one target column and one independent column and the data we had
     accuracy                           0.88      6002
    macro avg       0.88      0.80      0.83      6002
 weighted avg       0.88      0.88      0.87      6002
+
