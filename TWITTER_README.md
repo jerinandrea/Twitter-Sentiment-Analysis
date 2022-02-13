@@ -45,7 +45,7 @@ As there was no target column, it is created by calculating the subjectivity and
 ## Model Building
 
 As we have only one target column and one independent column and the data we had was catrgorical data so i have selected Random forest and used converted the data in to train and test data and the data is fed to the model.
-The Accuracy is 91.73%
+The Accuracy is 91.78%
 The evaluation of the model are as below
                 
 ![image](https://user-images.githubusercontent.com/75555487/153761788-cfbd2a47-a65a-437f-8a4b-0f0361bfe2f2.png)
